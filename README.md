@@ -4,16 +4,23 @@ RAMA - Relational Artist MAps
 
 RAMA is a Spotify Application for visualizing and interacting with networks of music artists. For the original RAMA web application see [rama.inescporto.pt]
 
+RAMA for Spotify has been developed as part of the Media, Arts & Technologies [http://mat.inescporto.pt/] research program coordinated by INESC TEC.
+
+The Media Arts and Technologies project (MAT), NORTE-07-0124-FEDER-000061, is financed by the North Portugal Regional Operational Programme (ON.2 – O Novo Norte), under the National Strategic Reference Framework (NSRF), through the European Regional Development Fund (ERDF), and by national funds, through the Portuguese funding agency, Fundação para a Ciência e a Tecnologia (FCT).
+
+![alt tag](http://mat.inescporto.pt/wp-content/uploads/2013/07/logos-ccdrn1.jpg)
+
+
 Here are some previews of what this app does:
 
 ![Demo](demo2.gif)
 ![Demo 2](demo.gif)
 
-For now, I do not intend to make this application available on the Spotify App Store, so to run it you need to set it up first.
+For now, we do not intend to make this application available on the Spotify App Store, so to run it you need to set it up first.
 
 To open a downloaded app you need to **Activate Spotify Developer account** here: https://devaccount.spotify.com/my-account (no premium account needed).
 
-I've tested the app in mac, windows and linux. Please report any [issues] you encounter please.
+The app has been tested in mac, windows and linux. Please report any [issues] you encounter.
 
 Installation
 --------------
@@ -45,7 +52,7 @@ You should now be in the app and seeing a graph thingy.
 
 If not, restart Spotify (open the app by typing spotify:app:rama in the search bar).
 
-Alternatively, If you happen to have commandlinephobia (I get that every other month... might be a thing):
+Alternatively:
 
 1. download the latest version of the app from [here]
 2. extract the folder
@@ -140,12 +147,13 @@ Thank you for testing!
   - graph depth 1 displayed on app load.
 
 
-#### Author
+#### Authors
 
-José Bateira
-[@zebateira]
+José Bateira (primary developer)
+Matthew Davies (INESC TEC)
+Marcelo Caetano (INESC TEC)
+Fabien Gouyon (INESC TEC)
 
-[carsy.github.io]
 
 [rama.inescporto.pt]:http://rama.inescporto.pt
 [carsy.github.io]:http://carsy.github.io
