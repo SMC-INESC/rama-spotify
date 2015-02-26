@@ -4,7 +4,7 @@ RAMA - Relational Artist MAps
 
 RAMA is a Spotify Application for visualizing and interacting with networks of music artists. For the original RAMA web application see [rama.inescporto.pt]
 
-RAMA for Spotify has been developed as part of the Media, Arts & Technologies [http://mat.inescporto.pt/] research program coordinated by INESC TEC.
+RAMA for Spotify has been developed as part of the [Media, Arts & Technologies](http://mat.inescporto.pt/) research program coordinated by INESC TEC.
 
 The Media Arts and Technologies project (MAT), NORTE-07-0124-FEDER-000061, is financed by the North Portugal Regional Operational Programme (ON.2 – O Novo Norte), under the National Strategic Reference Framework (NSRF), through the European Regional Development Fund (ERDF), and by national funds, through the Portuguese funding agency, Fundação para a Ciência e a Tecnologia (FCT).
 
